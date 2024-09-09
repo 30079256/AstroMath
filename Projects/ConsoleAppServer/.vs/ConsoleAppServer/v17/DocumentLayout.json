@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\ConsoleAppServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33B79670-E5B7-4E17-A20F-0EC48B7F8FC3}|ConsoleAppServer.csproj|c:\\users\\gaz2\\downloads\\astromaths_week12_final 23-04-2024\\astromaths_week12_final\\astromaths_week12\\astromaths (2)\\astromaths\\projects\\consoleappserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B79670-E5B7-4E17-A20F-0EC48B7F8FC3}|ConsoleAppServer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B79670-E5B7-4E17-A20F-0EC48B7F8FC3}|ConsoleAppServer.csproj|C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\ConsoleAppServer\\iastrocontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B79670-E5B7-4E17-A20F-0EC48B7F8FC3}|ConsoleAppServer.csproj|solutionrelative:iastrocontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B79670-E5B7-4E17-A20F-0EC48B7F8FC3}|ConsoleAppServer.csproj|C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\ConsoleAppServer\\astroserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B79670-E5B7-4E17-A20F-0EC48B7F8FC3}|ConsoleAppServer.csproj|solutionrelative:astroserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AstroServer.cs",
+              "DocumentMoniker": "C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\ConsoleAppServer\\AstroServer.cs",
+              "RelativeDocumentMoniker": "AstroServer.cs",
+              "ToolTip": "C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\ConsoleAppServer\\AstroServer.cs",
+              "RelativeToolTip": "AstroServer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T03:35:38.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAstroContract.cs",
+              "DocumentMoniker": "C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\ConsoleAppServer\\IAstroContract.cs",
+              "RelativeDocumentMoniker": "IAstroContract.cs",
+              "ToolTip": "C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\ConsoleAppServer\\IAstroContract.cs",
+              "RelativeToolTip": "IAstroContract.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T03:05:08.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\ConsoleAppServer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\ConsoleAppServer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T03:02:41.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

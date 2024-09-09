@@ -1,0 +1,14 @@
+C:\Users\GAZ2\source\repos\ConsoleAppClient\bin\Release\ConsoleAppClient.exe.config
+C:\Users\GAZ2\source\repos\ConsoleAppClient\bin\Release\ConsoleAppClient.exe
+C:\Users\GAZ2\source\repos\ConsoleAppClient\bin\Release\ConsoleAppClient.pdb
+C:\Users\GAZ2\source\repos\ConsoleAppClient\obj\Release\ConsoleAppClient.csproj.AssemblyReference.cache
+C:\Users\GAZ2\source\repos\ConsoleAppClient\obj\Release\ConsoleAppClient.csproj.CoreCompileInputs.cache
+C:\Users\GAZ2\source\repos\ConsoleAppClient\obj\Release\ConsoleAppClient.exe
+C:\Users\GAZ2\source\repos\ConsoleAppClient\obj\Release\ConsoleAppClient.pdb
+C:\Users\30079256\Downloads\AstroMaths_Week12\AstroMaths (2)\AstroMaths\ConsoleAppClient\bin\Release\ConsoleAppClient.exe.config
+C:\Users\30079256\Downloads\AstroMaths_Week12\AstroMaths (2)\AstroMaths\ConsoleAppClient\bin\Release\ConsoleAppClient.exe
+C:\Users\30079256\Downloads\AstroMaths_Week12\AstroMaths (2)\AstroMaths\ConsoleAppClient\bin\Release\ConsoleAppClient.pdb
+C:\Users\30079256\Downloads\AstroMaths_Week12\AstroMaths (2)\AstroMaths\ConsoleAppClient\obj\Release\ConsoleAppClient.csproj.AssemblyReference.cache
+C:\Users\30079256\Downloads\AstroMaths_Week12\AstroMaths (2)\AstroMaths\ConsoleAppClient\obj\Release\ConsoleAppClient.csproj.CoreCompileInputs.cache
+C:\Users\30079256\Downloads\AstroMaths_Week12\AstroMaths (2)\AstroMaths\ConsoleAppClient\obj\Release\ConsoleAppClient.exe
+C:\Users\30079256\Downloads\AstroMaths_Week12\AstroMaths (2)\AstroMaths\ConsoleAppClient\obj\Release\ConsoleAppClient.pdb

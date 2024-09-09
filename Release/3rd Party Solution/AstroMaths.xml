@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AstroMaths</name>
+    </assembly>
+    <members>
+        <member name="T:AstroMaths.Calculation">
+            <summary>
+            Methods for astronomical calculations
+            </summary>
+        </member>
+        <member name="M:AstroMaths.Calculation.StarVelocity(System.Double,System.Double)">
+            <summary>
+            Method to measure the Star velocity using the Doppler shift
+            </summary>
+            <param name="observedWavelength">Observed wavelength of light from the star in meters of type double</param>
+            <param name="restWavelength">Rest wavelength of the emitted light in meters of type double</param>
+            <returns>A double which represents the star velocity in meters per second</returns>
+        </member>
+        <member name="M:AstroMaths.Calculation.StarDistance(System.Double)">
+            <summary>
+            Method to measure the star distance using the parallax angle
+            </summary>
+            <param name="parallaxAngle">Parallax angle of the star measured in arcseconds of type double</param>
+            <returns>A double which represents the distance to the star in parsecs. Returns 0 for non-positive parallax angle values</returns>
+        </member>
+        <member name="M:AstroMaths.Calculation.KelvinTemperature(System.Double)">
+            <summary>
+            Method to convert a temperature from Celsius to Kelvin
+            </summary>
+            <param name="celsiusTemperature">Temperature in degrees Celsius of type double</param>
+            <returns>A double which represents the temperature in degrees Kelvin. Returns 0 for temperatures below absolute zero</returns>
+        </member>
+        <member name="M:AstroMaths.Calculation.EventHorizon(System.Double)">
+            <summary>
+            Method that returns the distance from the centre of a blackhole to the event horizon
+            </summary>
+            <param name="blackholeMass">Mass of the black hole in kilograms of type double</param>
+            <returns>A double which is the event horizon in metres</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,13 @@
+C:\Users\30079256\source\repos\AstroMaths\AstroMaths\bin\Release\AstroMaths.dll
+C:\Users\30079256\source\repos\AstroMaths\AstroMaths\bin\Release\AstroMaths.pdb
+C:\Users\30079256\source\repos\AstroMaths\AstroMaths\obj\Release\AstroMaths.csproj.AssemblyReference.cache
+C:\Users\30079256\source\repos\AstroMaths\AstroMaths\obj\Release\AstroMaths.csproj.CoreCompileInputs.cache
+C:\Users\30079256\source\repos\AstroMaths\AstroMaths\obj\Release\AstroMaths.dll
+C:\Users\30079256\source\repos\AstroMaths\AstroMaths\obj\Release\AstroMaths.pdb
+F:\TAFE\AstroMaths\AstroMaths\AstroMaths\bin\Release\AstroMaths.dll
+F:\TAFE\AstroMaths\AstroMaths\AstroMaths\bin\Release\AstroMaths.pdb
+F:\TAFE\AstroMaths\AstroMaths\AstroMaths\obj\Release\AstroMaths.csproj.AssemblyReference.cache
+F:\TAFE\AstroMaths\AstroMaths\AstroMaths\obj\Release\AstroMaths.csproj.CoreCompileInputs.cache
+F:\TAFE\AstroMaths\AstroMaths\AstroMaths\obj\Release\AstroMaths.dll
+F:\TAFE\AstroMaths\AstroMaths\AstroMaths\obj\Release\AstroMaths.pdb
+F:\TAFE\AstroMaths\AstroMaths\AstroMaths\bin\Release\AstroMaths.xml

@@ -1,0 +1,115 @@
+C:\Users\30079256\Downloads\AstroMaths\AstroMaths\AstronomicalProcessing\bin\Debug\AstronomicalProcessing.exe.config
+C:\Users\30079256\Downloads\AstroMaths\AstroMaths\AstronomicalProcessing\bin\Debug\AstronomicalProcessing.exe
+C:\Users\30079256\Downloads\AstroMaths\AstroMaths\AstronomicalProcessing\bin\Debug\AstronomicalProcessing.pdb
+C:\Users\30079256\Downloads\AstroMaths\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.csproj.AssemblyReference.cache
+C:\Users\30079256\Downloads\AstroMaths\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.Form1.resources
+C:\Users\30079256\Downloads\AstroMaths\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.Properties.Resources.resources
+C:\Users\30079256\Downloads\AstroMaths\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.csproj.GenerateResource.cache
+C:\Users\30079256\Downloads\AstroMaths\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.csproj.CoreCompileInputs.cache
+C:\Users\30079256\Downloads\AstroMaths\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.exe
+C:\Users\30079256\Downloads\AstroMaths\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.pdb
+C:\Users\GAZ2\Downloads\AstroMaths (2)\AstroMaths\AstronomicalProcessing\bin\Debug\AstronomicalProcessing.exe.config
+C:\Users\GAZ2\Downloads\AstroMaths (2)\AstroMaths\AstronomicalProcessing\bin\Debug\AstronomicalProcessing.exe
+C:\Users\GAZ2\Downloads\AstroMaths (2)\AstroMaths\AstronomicalProcessing\bin\Debug\AstronomicalProcessing.pdb
+C:\Users\GAZ2\Downloads\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.csproj.AssemblyReference.cache
+C:\Users\GAZ2\Downloads\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.FormAstroProcessing.resources
+C:\Users\GAZ2\Downloads\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.Properties.Resources.resources
+C:\Users\GAZ2\Downloads\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.csproj.GenerateResource.cache
+C:\Users\GAZ2\Downloads\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.csproj.CoreCompileInputs.cache
+C:\Users\GAZ2\Downloads\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.exe
+C:\Users\GAZ2\Downloads\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.pdb
+C:\Users\GAZ2\Desktop\AstroMaths (2)\AstroMaths\AstronomicalProcessing\bin\Debug\AstronomicalProcessing.exe.config
+C:\Users\GAZ2\Desktop\AstroMaths (2)\AstroMaths\AstronomicalProcessing\bin\Debug\AstronomicalProcessing.exe
+C:\Users\GAZ2\Desktop\AstroMaths (2)\AstroMaths\AstronomicalProcessing\bin\Debug\AstronomicalProcessing.pdb
+C:\Users\GAZ2\Desktop\AstroMaths (2)\AstroMaths\AstronomicalProcessing\bin\Debug\de\AstronomicalProcessing.resources.dll
+C:\Users\GAZ2\Desktop\AstroMaths (2)\AstroMaths\AstronomicalProcessing\bin\Debug\en-GB\AstronomicalProcessing.resources.dll
+C:\Users\GAZ2\Desktop\AstroMaths (2)\AstroMaths\AstronomicalProcessing\bin\Debug\fr\AstronomicalProcessing.resources.dll
+C:\Users\GAZ2\Desktop\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.csproj.AssemblyReference.cache
+C:\Users\GAZ2\Desktop\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.FormAstroProcessing.resources
+C:\Users\GAZ2\Desktop\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.Properties.Resources.resources
+C:\Users\GAZ2\Desktop\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.FormAstroProcessing.de.resources
+C:\Users\GAZ2\Desktop\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.FormAstroProcessing.en-GB.resources
+C:\Users\GAZ2\Desktop\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.FormAstroProcessing.fr.resources
+C:\Users\GAZ2\Desktop\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.csproj.GenerateResource.cache
+C:\Users\GAZ2\Desktop\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.csproj.CoreCompileInputs.cache
+C:\Users\GAZ2\Desktop\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\de\AstronomicalProcessing.resources.dll
+C:\Users\GAZ2\Desktop\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\en-GB\AstronomicalProcessing.resources.dll
+C:\Users\GAZ2\Desktop\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\fr\AstronomicalProcessing.resources.dll
+C:\Users\GAZ2\Desktop\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.exe
+C:\Users\GAZ2\Desktop\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.pdb
+C:\Users\30079256\Downloads\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\bin\Debug\AstronomicalProcessing.exe.config
+C:\Users\30079256\Downloads\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\bin\Debug\AstronomicalProcessing.exe
+C:\Users\30079256\Downloads\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\bin\Debug\AstronomicalProcessing.pdb
+C:\Users\30079256\Downloads\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\bin\Debug\de\AstronomicalProcessing.resources.dll
+C:\Users\30079256\Downloads\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\bin\Debug\en-GB\AstronomicalProcessing.resources.dll
+C:\Users\30079256\Downloads\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\bin\Debug\fr\AstronomicalProcessing.resources.dll
+C:\Users\30079256\Downloads\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.csproj.AssemblyReference.cache
+C:\Users\30079256\Downloads\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.FormAstroProcessing.resources
+C:\Users\30079256\Downloads\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.Properties.Resources.resources
+C:\Users\30079256\Downloads\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.FormAstroProcessing.de.resources
+C:\Users\30079256\Downloads\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.FormAstroProcessing.en-GB.resources
+C:\Users\30079256\Downloads\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.FormAstroProcessing.fr.resources
+C:\Users\30079256\Downloads\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.csproj.GenerateResource.cache
+C:\Users\30079256\Downloads\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.csproj.CoreCompileInputs.cache
+C:\Users\30079256\Downloads\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\de\AstronomicalProcessing.resources.dll
+C:\Users\30079256\Downloads\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\en-GB\AstronomicalProcessing.resources.dll
+C:\Users\30079256\Downloads\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\fr\AstronomicalProcessing.resources.dll
+C:\Users\30079256\Downloads\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.exe
+C:\Users\30079256\Downloads\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.pdb
+C:\Users\GAZ2\Desktop\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\bin\Debug\AstronomicalProcessing.exe.config
+C:\Users\GAZ2\Desktop\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\bin\Debug\AstronomicalProcessing.exe
+C:\Users\GAZ2\Desktop\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\bin\Debug\AstronomicalProcessing.pdb
+C:\Users\GAZ2\Desktop\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\bin\Debug\de\AstronomicalProcessing.resources.dll
+C:\Users\GAZ2\Desktop\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\bin\Debug\en-GB\AstronomicalProcessing.resources.dll
+C:\Users\GAZ2\Desktop\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\bin\Debug\fr\AstronomicalProcessing.resources.dll
+C:\Users\GAZ2\Desktop\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.csproj.AssemblyReference.cache
+C:\Users\GAZ2\Desktop\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.FormAstroProcessing.resources
+C:\Users\GAZ2\Desktop\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.Properties.Resources.resources
+C:\Users\GAZ2\Desktop\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.FormAstroProcessing.de.resources
+C:\Users\GAZ2\Desktop\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.FormAstroProcessing.en-GB.resources
+C:\Users\GAZ2\Desktop\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.FormAstroProcessing.fr.resources
+C:\Users\GAZ2\Desktop\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.csproj.GenerateResource.cache
+C:\Users\GAZ2\Desktop\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.csproj.CoreCompileInputs.cache
+C:\Users\GAZ2\Desktop\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\de\AstronomicalProcessing.resources.dll
+C:\Users\GAZ2\Desktop\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\en-GB\AstronomicalProcessing.resources.dll
+C:\Users\GAZ2\Desktop\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\fr\AstronomicalProcessing.resources.dll
+C:\Users\GAZ2\Desktop\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.exe
+C:\Users\GAZ2\Desktop\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.pdb
+C:\Users\GAZ2\Downloads\AstroMaths_Week12_Final 23-04-2024\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\bin\Debug\AstronomicalProcessing.exe.config
+C:\Users\GAZ2\Downloads\AstroMaths_Week12_Final 23-04-2024\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\bin\Debug\AstronomicalProcessing.exe
+C:\Users\GAZ2\Downloads\AstroMaths_Week12_Final 23-04-2024\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\bin\Debug\AstronomicalProcessing.pdb
+C:\Users\GAZ2\Downloads\AstroMaths_Week12_Final 23-04-2024\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\bin\Debug\de\AstronomicalProcessing.resources.dll
+C:\Users\GAZ2\Downloads\AstroMaths_Week12_Final 23-04-2024\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\bin\Debug\en-GB\AstronomicalProcessing.resources.dll
+C:\Users\GAZ2\Downloads\AstroMaths_Week12_Final 23-04-2024\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\bin\Debug\fr\AstronomicalProcessing.resources.dll
+C:\Users\GAZ2\Downloads\AstroMaths_Week12_Final 23-04-2024\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.csproj.AssemblyReference.cache
+C:\Users\GAZ2\Downloads\AstroMaths_Week12_Final 23-04-2024\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.FormAstroProcessing.resources
+C:\Users\GAZ2\Downloads\AstroMaths_Week12_Final 23-04-2024\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.Properties.Resources.resources
+C:\Users\GAZ2\Downloads\AstroMaths_Week12_Final 23-04-2024\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.FormAstroProcessing.de.resources
+C:\Users\GAZ2\Downloads\AstroMaths_Week12_Final 23-04-2024\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.FormAstroProcessing.en-GB.resources
+C:\Users\GAZ2\Downloads\AstroMaths_Week12_Final 23-04-2024\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.FormAstroProcessing.fr.resources
+C:\Users\GAZ2\Downloads\AstroMaths_Week12_Final 23-04-2024\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.csproj.GenerateResource.cache
+C:\Users\GAZ2\Downloads\AstroMaths_Week12_Final 23-04-2024\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.csproj.CoreCompileInputs.cache
+C:\Users\GAZ2\Downloads\AstroMaths_Week12_Final 23-04-2024\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\de\AstronomicalProcessing.resources.dll
+C:\Users\GAZ2\Downloads\AstroMaths_Week12_Final 23-04-2024\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\en-GB\AstronomicalProcessing.resources.dll
+C:\Users\GAZ2\Downloads\AstroMaths_Week12_Final 23-04-2024\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\fr\AstronomicalProcessing.resources.dll
+C:\Users\GAZ2\Downloads\AstroMaths_Week12_Final 23-04-2024\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.exe
+C:\Users\GAZ2\Downloads\AstroMaths_Week12_Final 23-04-2024\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.pdb
+C:\Users\30079256\Downloads\Assessment Project 2 (1)\AstroMaths\Projects\AstronomicalProcessing\bin\Debug\AstronomicalProcessing.exe.config
+C:\Users\30079256\Downloads\Assessment Project 2 (1)\AstroMaths\Projects\AstronomicalProcessing\bin\Debug\AstronomicalProcessing.exe
+C:\Users\30079256\Downloads\Assessment Project 2 (1)\AstroMaths\Projects\AstronomicalProcessing\bin\Debug\AstronomicalProcessing.pdb
+C:\Users\30079256\Downloads\Assessment Project 2 (1)\AstroMaths\Projects\AstronomicalProcessing\bin\Debug\de\AstronomicalProcessing.resources.dll
+C:\Users\30079256\Downloads\Assessment Project 2 (1)\AstroMaths\Projects\AstronomicalProcessing\bin\Debug\en-GB\AstronomicalProcessing.resources.dll
+C:\Users\30079256\Downloads\Assessment Project 2 (1)\AstroMaths\Projects\AstronomicalProcessing\bin\Debug\fr\AstronomicalProcessing.resources.dll
+C:\Users\30079256\Downloads\Assessment Project 2 (1)\AstroMaths\Projects\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.csproj.AssemblyReference.cache
+C:\Users\30079256\Downloads\Assessment Project 2 (1)\AstroMaths\Projects\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.FormAstroProcessing.resources
+C:\Users\30079256\Downloads\Assessment Project 2 (1)\AstroMaths\Projects\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.Properties.Resources.resources
+C:\Users\30079256\Downloads\Assessment Project 2 (1)\AstroMaths\Projects\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.FormAstroProcessing.de.resources
+C:\Users\30079256\Downloads\Assessment Project 2 (1)\AstroMaths\Projects\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.FormAstroProcessing.en-GB.resources
+C:\Users\30079256\Downloads\Assessment Project 2 (1)\AstroMaths\Projects\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.FormAstroProcessing.fr.resources
+C:\Users\30079256\Downloads\Assessment Project 2 (1)\AstroMaths\Projects\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.csproj.GenerateResource.cache
+C:\Users\30079256\Downloads\Assessment Project 2 (1)\AstroMaths\Projects\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.csproj.CoreCompileInputs.cache
+C:\Users\30079256\Downloads\Assessment Project 2 (1)\AstroMaths\Projects\AstronomicalProcessing\obj\Debug\de\AstronomicalProcessing.resources.dll
+C:\Users\30079256\Downloads\Assessment Project 2 (1)\AstroMaths\Projects\AstronomicalProcessing\obj\Debug\en-GB\AstronomicalProcessing.resources.dll
+C:\Users\30079256\Downloads\Assessment Project 2 (1)\AstroMaths\Projects\AstronomicalProcessing\obj\Debug\fr\AstronomicalProcessing.resources.dll
+C:\Users\30079256\Downloads\Assessment Project 2 (1)\AstroMaths\Projects\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.exe
+C:\Users\30079256\Downloads\Assessment Project 2 (1)\AstroMaths\Projects\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.pdb

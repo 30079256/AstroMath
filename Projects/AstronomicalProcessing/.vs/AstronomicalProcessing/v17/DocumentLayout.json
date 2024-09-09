@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\AstronomicalProcessing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B7966A-D807-4AF1-8B5F-6099F19B4B7F}|AstronomicalProcessing.csproj|c:\\users\\gaz2\\downloads\\astromaths_week12_final 23-04-2024\\astromaths_week12_final\\astromaths_week12\\astromaths (2)\\astromaths\\projects\\astronomicalprocessing\\formastroprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B7966A-D807-4AF1-8B5F-6099F19B4B7F}|AstronomicalProcessing.csproj|solutionrelative:formastroprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B7966A-D807-4AF1-8B5F-6099F19B4B7F}|AstronomicalProcessing.csproj|C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\AstronomicalProcessing\\formastroprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4B7966A-D807-4AF1-8B5F-6099F19B4B7F}|AstronomicalProcessing.csproj|solutionrelative:formastroprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AstronomicalProcessing||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B7966A-D807-4AF1-8B5F-6099F19B4B7F}|AstronomicalProcessing.csproj|C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\AstronomicalProcessing\\formastroprocessing.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B7966A-D807-4AF1-8B5F-6099F19B4B7F}|AstronomicalProcessing.csproj|solutionrelative:formastroprocessing.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B7966A-D807-4AF1-8B5F-6099F19B4B7F}|AstronomicalProcessing.csproj|C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\AstronomicalProcessing\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A4B7966A-D807-4AF1-8B5F-6099F19B4B7F}|AstronomicalProcessing.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B7966A-D807-4AF1-8B5F-6099F19B4B7F}|AstronomicalProcessing.csproj|C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\AstronomicalProcessing\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B7966A-D807-4AF1-8B5F-6099F19B4B7F}|AstronomicalProcessing.csproj|solutionrelative:properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B7966A-D807-4AF1-8B5F-6099F19B4B7F}|AstronomicalProcessing.csproj|C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\AstronomicalProcessing\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{A4B7966A-D807-4AF1-8B5F-6099F19B4B7F}|AstronomicalProcessing.csproj|solutionrelative:properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B7966A-D807-4AF1-8B5F-6099F19B4B7F}|AstronomicalProcessing.csproj|C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\AstronomicalProcessing\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B7966A-D807-4AF1-8B5F-6099F19B4B7F}|AstronomicalProcessing.csproj|solutionrelative:properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B7966A-D807-4AF1-8B5F-6099F19B4B7F}|AstronomicalProcessing.csproj|C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\AstronomicalProcessing\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A4B7966A-D807-4AF1-8B5F-6099F19B4B7F}|AstronomicalProcessing.csproj|solutionrelative:properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B7966A-D807-4AF1-8B5F-6099F19B4B7F}|AstronomicalProcessing.csproj|C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\AstronomicalProcessing\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B7966A-D807-4AF1-8B5F-6099F19B4B7F}|AstronomicalProcessing.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B7966A-D807-4AF1-8B5F-6099F19B4B7F}|AstronomicalProcessing.csproj|C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\AstronomicalProcessing\\formastroprocessing.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A4B7966A-D807-4AF1-8B5F-6099F19B4B7F}|AstronomicalProcessing.csproj|solutionrelative:formastroprocessing.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B7966A-D807-4AF1-8B5F-6099F19B4B7F}|AstronomicalProcessing.csproj|C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\AstronomicalProcessing\\iastrocontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B7966A-D807-4AF1-8B5F-6099F19B4B7F}|AstronomicalProcessing.csproj|solutionrelative:iastrocontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B7966A-D807-4AF1-8B5F-6099F19B4B7F}|AstronomicalProcessing.csproj|C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\AstronomicalProcessing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B7966A-D807-4AF1-8B5F-6099F19B4B7F}|AstronomicalProcessing.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormAstroProcessing.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\AstronomicalProcessing\\FormAstroProcessing.Designer.cs",
+              "RelativeDocumentMoniker": "FormAstroProcessing.Designer.cs",
+              "ToolTip": "C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\AstronomicalProcessing\\FormAstroProcessing.Designer.cs",
+              "RelativeToolTip": "FormAstroProcessing.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIwBAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T02:54:26.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\AstronomicalProcessing\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\AstronomicalProcessing\\Properties\\Settings.settings",
+              "RelativeToolTip": "Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-04-19T02:54:02.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\AstronomicalProcessing\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\AstronomicalProcessing\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "Properties\\Settings.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T02:54:05.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\AstronomicalProcessing\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\AstronomicalProcessing\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-19T02:53:26.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormAstroProcessing.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\AstronomicalProcessing\\FormAstroProcessing.cs",
+              "RelativeDocumentMoniker": "FormAstroProcessing.cs",
+              "ToolTip": "C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\AstronomicalProcessing\\FormAstroProcessing.cs [Design]",
+              "RelativeToolTip": "FormAstroProcessing.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:39:38.35Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormAstroProcessing.cs",
+              "DocumentMoniker": "C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\AstronomicalProcessing\\FormAstroProcessing.cs",
+              "RelativeDocumentMoniker": "FormAstroProcessing.cs",
+              "ToolTip": "C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\AstronomicalProcessing\\FormAstroProcessing.cs",
+              "RelativeToolTip": "FormAstroProcessing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T02:35:03.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AstronomicalProcessing",
+              "DocumentMoniker": "C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\AstronomicalProcessing\\AstronomicalProcessing.csproj",
+              "RelativeDocumentMoniker": "AstronomicalProcessing.csproj",
+              "ToolTip": "C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\AstronomicalProcessing\\AstronomicalProcessing.csproj",
+              "RelativeToolTip": "AstronomicalProcessing.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-19T02:51:56.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\AstronomicalProcessing\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\AstronomicalProcessing\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Properties\\Resources.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T02:53:40.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\AstronomicalProcessing\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\AstronomicalProcessing\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-19T02:53:36.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\AstronomicalProcessing\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\AstronomicalProcessing\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T02:53:32.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormAstroProcessing.resx",
+              "DocumentMoniker": "C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\AstronomicalProcessing\\FormAstroProcessing.resx",
+              "RelativeDocumentMoniker": "FormAstroProcessing.resx",
+              "ToolTip": "C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\AstronomicalProcessing\\FormAstroProcessing.resx",
+              "RelativeToolTip": "FormAstroProcessing.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-21T05:53:24.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\AstronomicalProcessing\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\AstronomicalProcessing\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T05:43:20.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAstroContract.cs",
+              "DocumentMoniker": "C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\AstronomicalProcessing\\IAstroContract.cs",
+              "RelativeDocumentMoniker": "IAstroContract.cs",
+              "ToolTip": "C:\\Users\\GAZ2\\Downloads\\AstroMaths_Week12_Final 23-04-2024\\AstroMaths_Week12_Final\\AstroMaths_Week12\\AstroMaths (2)\\AstroMaths\\Projects\\AstronomicalProcessing\\IAstroContract.cs",
+              "RelativeToolTip": "IAstroContract.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T04:02:50.28Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

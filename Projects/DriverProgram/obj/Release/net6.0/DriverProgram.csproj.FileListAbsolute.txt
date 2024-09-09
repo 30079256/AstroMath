@@ -1,0 +1,17 @@
+C:\Users\GAZ2\Downloads\AstroMaths_Week12_Final 23-04-2024\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\DriverProgram\bin\Release\net6.0\DriverProgram.exe
+C:\Users\GAZ2\Downloads\AstroMaths_Week12_Final 23-04-2024\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\DriverProgram\bin\Release\net6.0\DriverProgram.deps.json
+C:\Users\GAZ2\Downloads\AstroMaths_Week12_Final 23-04-2024\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\DriverProgram\bin\Release\net6.0\DriverProgram.runtimeconfig.json
+C:\Users\GAZ2\Downloads\AstroMaths_Week12_Final 23-04-2024\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\DriverProgram\bin\Release\net6.0\DriverProgram.dll
+C:\Users\GAZ2\Downloads\AstroMaths_Week12_Final 23-04-2024\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\DriverProgram\bin\Release\net6.0\DriverProgram.pdb
+C:\Users\GAZ2\Downloads\AstroMaths_Week12_Final 23-04-2024\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\DriverProgram\bin\Release\net6.0\AstroMaths.dll
+C:\Users\GAZ2\Downloads\AstroMaths_Week12_Final 23-04-2024\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\DriverProgram\obj\Release\net6.0\DriverProgram.csproj.AssemblyReference.cache
+C:\Users\GAZ2\Downloads\AstroMaths_Week12_Final 23-04-2024\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\DriverProgram\obj\Release\net6.0\DriverProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAZ2\Downloads\AstroMaths_Week12_Final 23-04-2024\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\DriverProgram\obj\Release\net6.0\DriverProgram.AssemblyInfoInputs.cache
+C:\Users\GAZ2\Downloads\AstroMaths_Week12_Final 23-04-2024\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\DriverProgram\obj\Release\net6.0\DriverProgram.AssemblyInfo.cs
+C:\Users\GAZ2\Downloads\AstroMaths_Week12_Final 23-04-2024\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\DriverProgram\obj\Release\net6.0\DriverProgram.csproj.CoreCompileInputs.cache
+C:\Users\GAZ2\Downloads\AstroMaths_Week12_Final 23-04-2024\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\DriverProgram\obj\Release\net6.0\DriverPr.37B8E8B7.Up2Date
+C:\Users\GAZ2\Downloads\AstroMaths_Week12_Final 23-04-2024\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\DriverProgram\obj\Release\net6.0\DriverProgram.dll
+C:\Users\GAZ2\Downloads\AstroMaths_Week12_Final 23-04-2024\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\DriverProgram\obj\Release\net6.0\refint\DriverProgram.dll
+C:\Users\GAZ2\Downloads\AstroMaths_Week12_Final 23-04-2024\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\DriverProgram\obj\Release\net6.0\DriverProgram.pdb
+C:\Users\GAZ2\Downloads\AstroMaths_Week12_Final 23-04-2024\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\DriverProgram\obj\Release\net6.0\DriverProgram.genruntimeconfig.cache
+C:\Users\GAZ2\Downloads\AstroMaths_Week12_Final 23-04-2024\AstroMaths_Week12_Final\AstroMaths_Week12\AstroMaths (2)\AstroMaths\DriverProgram\obj\Release\net6.0\ref\DriverProgram.dll

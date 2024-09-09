@@ -1,0 +1,185 @@
+using System;
+using AstroMaths; // Ensure this using directive is correct based on your DLL's namespace
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        // Test data setup
+        double observedWavelengthNm = 500.1; // in nanometers
+        double restWavelengthNm = 500.0; // in nanometers
+        double parallaxAngleArcseconds = 0.547;
+        double celsiusTemperature = 27;
+        double blackholeMassKg = 8.2e36;
+
+        // Conversion from nanometers to meters for wavelength
+        double observedWavelength = observedWavelengthNm * 1e-9;
+        double restWavelength = restWavelengthNm * 1e-9;
+
+        // Test methods
+        double starVelocity = Calculation.StarVelocity(observedWavelength, restWavelength);
+        double starDistance = Calculation.StarDistance(parallaxAngleArcseconds);
+        double kelvinTemperature = Calculation.KelvinTemperature(celsiusTemperature);
+        double eventHorizon = Calculation.EventHorizon(blackholeMassKg);
+
+        // Output results
+        Console.WriteLine("Star Velocity Test:");
+        Console.WriteLine($"Input Observed {observedWavelengthNm}nm; Rest {restWavelengthNm}nm. Output {starVelocity} m/s\n");
+
+        Console.WriteLine("Star Distance Test:");
+        Console.WriteLine($"Input parallax angle {parallaxAngleArcseconds} arcseconds. Output {starDistance} parsec\n");
+
+        Console.WriteLine("Temperature in Kelvin Test:");
+        Console.WriteLine($"Input {celsiusTemperature} degrees C. Output {kelvinTemperature} degrees K\n");
+
+        Console.WriteLine("Event Horizon Test:");
+        Console.WriteLine($"Input {blackholeMassKg}kg. Output {eventHorizon} metres\n");
+    }
+}
+
+
+ServiceContract File: IAstroContract.cs
+
+using System.ServiceModel;
+
+[ServiceContract]
+public interface IAstroContract
+{
+    [OperationContract]
+    double StarVelocity(double observedWavelength, double restWavelength);
+
+    [OperationContract]
+    double StarDistance(double parallaxAngle);
+
+    [OperationContract]
+    double KelvinTemperature(double celsiusTemperature);
+
+    [OperationContract]
+    double EventHorizon(double blackholeMass);
+}
+
+
+using System.ServiceModel;
+
+[ServiceContract]
+public interface IAstroContract
+{
+    [OperationContract]
+    double CalculateStarVelocity(double observedWavelength, double restWavelength);
+
+    [OperationContract]
+    double CalculateStarDistance(double parallaxAngle);
+
+    [OperationContract]
+    double CalculateTemperatureInKelvin(double celsius);
+
+    [OperationContract]
+    double CalculateEventHorizon(double blackholeMass);
+}
+
+
+Server File (AstroServer.cs)
+
+using AstroMaths; // Assuming AstroMath.DLL namespace
+using System;
+
+public class AstroServer : IAstroContract
+{
+    public double StarVelocity(double observedWavelength, double restWavelength)
+    {
+        return Calculation.StarVelocity(observedWavelength, restWavelength);
+    }
+
+    public double StarDistance(double parallaxAngle)
+    {
+        return Calculation.StarDistance(parallaxAngle);
+    }
+
+    public double KelvinTemperature(double celsiusTemperature)
+    {
+        return Calculation.KelvinTemperature(celsiusTemperature);
+    }
+
+    public double EventHorizon(double blackholeMass)
+    {
+        return Calculation.EventHorizon(blackholeMass);
+    }
+}
+
+public class AstroServer : IAstroContract
+{
+    public double CalculateStarVelocity(double observedWavelength, double restWavelength)
+    {
+        return Calculation.StarVelocity(observedWavelength, restWavelength);
+    }
+
+    public double CalculateStarDistance(double parallaxAngle)
+    {
+        return Calculation.StarDistance(parallaxAngle);
+    }
+
+    public double CalculateTemperatureInKelvin(double celsius)
+    {
+        return Calculation.KelvinTemperature(celsius);
+    }
+
+    public double CalculateEventHorizon(double blackholeMass)
+    {
+        return Calculation.EventHorizon(blackholeMass);
+    }
+}
+
+
+
+ServiceHost and NetNamedPipeBinding in the Program.cs
+
+using System;
+using System.ServiceModel;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        ServiceHost host = new ServiceHost(typeof(AstroServer),
+            new Uri("net.pipe://localhost"));
+
+        host.AddServiceEndpoint(typeof(IAstroContract),
+            new NetNamedPipeBinding(), "AstroService");
+
+        host.Open();
+        Console.WriteLine("AstroServer is running...");
+        Console.WriteLine("Press Enter to exit.");
+        Console.ReadLine(); // Pauses the program to keep the service running
+
+        host.Close();
+    }
+}
+
+using System;
+using System.ServiceModel;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        // Specify a base address for the service
+        Uri baseAddress = new Uri("net.pipe://localhost");
+
+        // Create the ServiceHost for the AstroServer type and provide the base address
+        using (ServiceHost host = new ServiceHost(typeof(AstroServer), baseAddress))
+        {
+            // Add a service endpoint
+            host.AddServiceEndpoint(typeof(IAstroContract), new NetNamedPipeBinding(), "AstroService");
+
+            // Open the host
+            host.Open();
+            Console.WriteLine("Service is running. Press <Enter> to stop...");
+
+            // Keep the service running until Enter is pressed
+            Console.ReadLine();
+
+            // Close the host
+            host.Close();
+        }
+    }
+}
